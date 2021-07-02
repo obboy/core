@@ -1,7 +1,8 @@
-Hello everyone,
-Add your project repository and idea link below
+<h1>Hello everyone,</h1>
+<h2>Add your project details</h2>
+<br>
+<h1>Project List</h1>
 
-#Project_list
 <table>
 
 <tr>
