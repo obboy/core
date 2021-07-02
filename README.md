@@ -11,7 +11,7 @@ In this project, every contributors must add their individual project repository
 
 ## 1. Fork this repository
 
-## 2. Clone your reposotory
+## 2. Clone the forked repository
 ```bash
 $ git clone https://github.com/<your-github-username>/core.git
 ```
@@ -24,7 +24,7 @@ $ git checkout -b <your-name>
 ## 4. Open `Projects.md`
 
 ```
-[your-name](<your-github-profile-url>)
+Copy the table row without any gap and add your project info and repository link
 ```
 
 ## 5. Select file to commit
