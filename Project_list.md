@@ -7,17 +7,32 @@ Add your project repository and idea link below
 <tr>
     <td>Serial</td>
     <td>Email</td>
-    <td>Project Name</td>
-    <td>Project technology and idea in short word</td>
+    <td>Status</td>
+    <td>Project Title</td>
+    <td>Short Description</td>
+    <td>Techs</td>
     <td>Repository Link</td>
 </tr>
 
 <tr>
     <td>1</td>
     <td>786saadman@gmail.com</td>
+    <td>On Going</td>
     <td>Todo List</td>
-    <td>PHP and Javascript. This is a simple to do list application</td>
+    <td>This is a simple to do list application</td>
+    <td>Javascript,Node JS,MongoDB</td>
     <td>(Todo List)[https://github.com/bakebit-official/todo-list]</td>
+</tr>
+
+#Do not remove this, copy this and just change the info
+<tr>
+    <td>11111</td>
+    <td>email@gmail.com</td>
+    <td>On Going</td>
+    <td>Todo List</td>
+    <td>This is a simple to do list application</td>
+    <td>Javascript,Node JS,MongoDB</td>
+    <td>(Todo List)[https://github.com/your-repo-link]</td>
 </tr>
 
 </table>
