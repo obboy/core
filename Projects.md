@@ -8,8 +8,6 @@ Here, we are going to enlist every project we will go through.
 
 |    0   |   Example Project |  This is an example application | Javascript, Node JS, MongoDB  | [email](mailto:786saadman@gmail.com) | [visit](https://github.com/bakebit-official/todo-list)  | Example Project |
 
-|:------:|:-------------:|:-------------:|:------:|:-------:|:----:|:------:|
-| Serial | Project Title | Project Desc. | Techs. | Contact | Repo | Status |
 
 
 <!-- Write your idea according to bellow comment and do not remove any comment -->
