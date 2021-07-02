@@ -35,7 +35,7 @@ Add your project repository and idea link below
     <td>Todo List</td>
     <td>This is a simple to do list application</td>
     <td>Javascript,Node JS,MongoDB</td>
-    <td>(Todo List)[https://github.com/your-repo-link]</td>
+    <td>[https://github.com/your-repo-link]</td>
 </tr>
 
 </table>
