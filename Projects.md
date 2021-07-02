@@ -5,13 +5,13 @@ Add your project repository and idea link below
 <table>
 
 <tr>
-    <td>Serial</td>
-    <td>Email</td>
-    <td>Status</td>
-    <td>Project Title</td>
-    <td>Short Description</td>
-    <td>Techs</td>
-    <td>Repository Link</td>
+    <th>Serial</th>
+    <th>Email</th>
+    <th>Status</th>
+    <th>Project Title</th>
+    <th>Short Description</th>
+    <th>Techs</th>
+    <th>Repository Link</th>
 </tr>
 
 <tr>
