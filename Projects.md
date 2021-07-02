@@ -1,43 +1,13 @@
-<h1>Hello everyone,</h1>
-<h2>Add your project details</h2>
-<br>
-<h1>Project List</h1>
+# Community Projects
 
-<table>
+Here, we are going to enlist every project we will go through.
 
-<tr>
-    <th>Serial</th>
-    <th>Email</th>
-    <th>Status</th>
-    <th>Project Title</th>
-    <th>Short Description</th>
-    <th>Techs</th>
-    <th>Repository Link</th>
-</tr>
+## Proposed Projects
+| Serial | Project Title | Project Desc. | Techs. | Contact | Repo | Status |
+|:------:|:-------------:|:-------------:|:------:|:-------:|:----:|:------:|
+|    1   |   Todo List   |  This is a simple to do list application | Javascript, Node JS, MongoDB  | [email](mailto:786saadman@gmail.com) | [visit](https://github.com/bakebit-official/todo-list)  | NULL |
 
-<tr>
-    <td>1</td>
-    <td>786saadman@gmail.com</td>
-    <td>On Going</td>
-    <td>Todo List</td>
-    <td>This is a simple to do list application</td>
-    <td>Javascript,Node JS,MongoDB</td>
-    <td>https://github.com/bakebit-official/todo-list</td>
-</tr>
+<!-- Write your idea according to bellow comment and do not remove any comment -->
+<!-- |  no  |    title   |   discription |  framework   | [email](mailto:yourmail@mail.com)  |  [visit](your-github-project)    |   NULL    | -->
 
-
-<tr>
-    <td>
-    #Do not remove this, copy this and just change the info
-    (add serial)
-    </td>
-    <td>email@gmail.com</td>
-    <td>On Going</td>
-    <td>Todo List</td>
-    <td>This is a simple to do list application</td>
-    <td>Javascript,Node JS,MongoDB</td>
-    <td>https://github.com/your-repo-link</td>
-</tr>
-
-</table>
 
