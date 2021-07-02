@@ -24,9 +24,12 @@ Add your project repository and idea link below
     <td>(Todo List)[https://github.com/bakebit-official/todo-list]</td>
 </tr>
 
-#Do not remove this, copy this and just change the info
+
 <tr>
-    <td>11111</td>
+    <td>
+    #Do not remove this, copy this and just change the info
+    11111
+    </td>
     <td>email@gmail.com</td>
     <td>On Going</td>
     <td>Todo List</td>
