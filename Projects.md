@@ -5,7 +5,7 @@ Here, we are going to enlist every project we will go through.
 ## Proposed Projects
 | Serial | Project Title | Project Desc. | Techs. | Contact | Repo | Status |
 |:------:|:-------------:|:-------------:|:------:|:-------:|:----:|:------:|
-|    0   |   Example Project |  This is an example application | Javascript, Node JS, MongoDB  | [email](mailto:786saadman@gmail.com) | [visit](https://github.com/bakebit-official/todo-list)  | Example Project |
+|    0   |  Auth-server  |  This is an example application | Node JS, Express, MySQL  | [email](mailto:samiur.prapon@gmail.com) | [visit](https://github.com/samiurprapon/Auth-server)  | Example |
 
 
 
