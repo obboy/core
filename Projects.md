@@ -5,7 +5,7 @@ Here, we are going to enlist every project we will go through.
 ## Proposed Projects
 | Serial | Project Title | Project Desc. | Techs. | Contact | Repo | Status |
 |:------:|:-------------:|:-------------:|:------:|:-------:|:----:|:------:|
-|    0   |  Auth-server  |  This is an example application | Node JS, Express, MySQL  | [email](mailto:samiur.prapon@gmail.com) | [visit](https://github.com/samiurprapon/Auth-server)  | Example |
+|    1   | MuslimsDay  |  MuslimsDay "Make things easy for the people" | Java  | [email](mailto:mahfuz4223@gmail.com) | [visit](https://github.com/mahfuz4223/MuslimsDay)  | Under Devlopment |
 
 
 
