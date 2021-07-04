@@ -7,6 +7,7 @@ Here, we are going to enlist every project we will go through.
 |:------:|:-------------:|:-------------:|:------:|:-------:|:----:|:------:|
 |    0   |  Auth-server  |  This is an example application | Node JS, Express, MySQL  | [email](mailto:samiur.prapon@gmail.com) | [visit](https://github.com/samiurprapon/Auth-server)  | Example |
 |    1   |  AI-Voice-Assistant  |  Artificial Intelligence based  voice assistant  | Python  | [email](mailto:devjewel.cou.ict10@gmail.com) | [visit](https://github.com/devjewel01/AI-Voice-Assistant)  | Proposed |
+|    2   |  Library-Management-System  |  A Library Managment System in Django  | Django,Vue Js, Sqlite  | [email](mailto:amsiam990@gmail.com) | [visit](https://github.com/Amsiam/library-management-system)  | Proposed |
 
 
 
