@@ -13,6 +13,7 @@ Here, we are going to enlist every project we will go through.
 |    5   |  Fidea |  A Open Source Idea sharing platform  | React, Express, NodeJS  | [email](mailto:Abrarshahriar321@gmail.com) | [visit](https://github.com/AbrarShahriar/fidea)  | Proposed |
 |    6   |  Local-e-commerce |  A Open Source location based e-commerce site  | React, Express, NodeJS  | [email](mailto:Abrarshahriar321@gmail.com) | [visit](https://github.com/AbrarShahriar/local-e-commerce/blob/master/README.md)  | Proposed |
 |    7   |  Asset Management System | Asset tracking system | Android Java/Flutter | [email](mailto:fahmidhossainsakib@gmail.com)  |  [visit](https://github.com/Sakib-Fahmid/Asset-Management-System.git)    |   Proposed |
+|    8   |  Flexible Drag Drop with rest API  | The project goal is to develop a drag and drop feature which will be comfortable with any js framework and any http requests can be maintained easily | Javascript ES6 | [email](mailto:786saadman@gmail.com)  |  [visit](https://github.com/bakebit-official/flexible-drag-drop)    |   Proposed |
 
 <!-- Write your idea above this comment right after the latest enlisted project according to below comment and do not remove any comment -->
 <!-- |  no  |    title   |   description |  framework   | [email](mailto:yourmail@mail.com)  |  [visit](your-github-project)    |   NULL    | -->
